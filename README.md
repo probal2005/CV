@@ -113,7 +113,7 @@ MIT License
 ## 🙌 Author
 
 **Probal Dhali**
-📧 probaldhali2006@gmail.com(mailto:probaldhali2006@gmail.com)
+📧 probaldhali2006@gmail.com
 🌐 github.com/probal2005
 
 ---
